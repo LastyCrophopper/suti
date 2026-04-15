@@ -1,38 +1,5 @@
 
 
-3. feladat
-CSS grid
-<section>
-belső margó 32px
-
-
-Alakítsd ki az oldal szövegezését a mintának megfelelően, Használd a szoveg.txt-t a forrásból!
-Használj gridet az oldal tartalmának rendezéséhez!
-
-Segítség:
-<h1>
-betűméret: 28px
-betű vastagság: 400
-<h2>
-betűméret: 56px
-betű vastagság: 400
-<p>
-betűméret: 24px
-max szélesség: 60ch
-betű vastagság: 400
-
-article {
-    height: fit-content;
-    max-width: 1080px;
-    margin: auto;
-    display: grid;
-}
-
-article img {
-  width: 100%;
-  height: 550px;
-  object-fit: cover;
-}
 
 3. feladatben elkészült fejlesztéseket 
 commitold fel a következő üzenettel:
