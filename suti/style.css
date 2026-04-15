@@ -69,3 +69,40 @@ article img {
   height: 550px;
   object-fit: cover;
 }
+
+table {
+  max-width: 1080px;
+  width: 100%;
+  margin: 32px auto;
+  border-collapse: collapse;
+  border: 2px solid #8d5b1a;
+}
+th {
+  background-color: #8d5b1a;
+  color: #feda70;
+  padding: 12px;
+  text-align: left;
+}
+td {
+  padding: 12px;
+  border: 1px solid #8d5b1a;
+}
+/*ez chatgpt mert fogalmam se volt mi ez es hogy kene*/
+tbody tr:nth-child(odd) {
+  background-color: #feda70;
+}
+tbody tr:nth-child(even) {
+  background-color: #8d5b1a;
+  color: #feda70;
+}
+/*eddig*/
+
+footer {
+  max-width: 1080px;
+ margin: 16px auto;
+  background-color: #8d5b1a;
+  color: #feda70;
+  text-align: center;
+  padding: 12px;
+  border-radius: 12px;
+}

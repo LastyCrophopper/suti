@@ -1,17 +1,5 @@
 
 
 
-3. feladatben elkészült fejlesztéseket 
-commitold fel a következő üzenettel:
-"sütik - 3. feladat" 
-
-4. feladat 
-Alakítsd ki a táblázatot és a footert a mintának megfelelően!!!
-színek:
-#8d5b1a;
-#feda70;
-maximum szélesség 1080px
-
-
 5. feladat
 Töltsd fel gitre a projektet! és telepítsd ki a github pages-re
